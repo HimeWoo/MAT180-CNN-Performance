@@ -21,4 +21,6 @@ matplotlib 3.10.8
 pip install matplotlib
 ```
 
-Then run all code cells. Outputs will be displayed under their respective code cells.
+To render graphs of the data of the trained models, run all code cells in `results.ipynb`.
+
+To re-train the models and render graphs of the data, run all code cells in `mnist.ipynb`.
